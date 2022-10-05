@@ -3,7 +3,7 @@
 Mi solución al reto propuesto por Nuwe en la página web https://nuwe.io/dev/challenges/jornada-talento-clasificacion-de-erupciones-volcanicas.
 
 ## Descripción del reto
-El reto consiste en construir un modelo predictivo  de tipo ___Random Forests__ a partir del conjunto de datos _jm_train_ que contiene las mediciones de las vibraciones de sensores detectadas en dias previos a una erupción volcánica. Dichas mediciones son clasificadas en las siguientes categorías de acuerdo al tipo de erupción:
+El reto consiste en construir un modelo predictivo  de tipo __Random Forest__ a partir del conjunto de datos _jm_train_ que contiene las mediciones de las vibraciones de sensores detectadas en dias previos a una erupción volcánica. Dichas mediciones son clasificadas en las siguientes categorías de acuerdo al tipo de erupción:
 
 * 0 Pliniana
 * 1 Peleana
