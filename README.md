@@ -30,7 +30,7 @@ Se utilizó el modelo __RandomForestClassifier__ de la librería _sklearn_ combi
 
 ## Requisitos
 
-matplotlib==3.5.2
+matplotlib==3.5.2|
 numpy==1.21.5
 pandas==1.4.4
 seaborn==0.11.2
