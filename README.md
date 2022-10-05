@@ -3,13 +3,13 @@
 Mi solución al reto propuesto por Nuwe en la página web https://nuwe.io/dev/challenges/jornada-talento-clasificacion-de-erupciones-volcanicas.
 
 ## Descripción del reto
-El reto consiste en construir un modelo predictivo a partir del conjunto de datos _space_X_train_ que contiene las mediciones de los sensores de un cohete espacial. Dichas mediciones son clasificadas en las siguientes categorías de acuerdo al estado del cohete:
+El reto consiste en construir un modelo predictivo  de tipo ___Random Forests__ a partir del conjunto de datos _jm_train_ que contiene las mediciones de las vibraciones de sensores detectadas en dias previos a una erupción volcánica. Dichas mediciones son clasificadas en las siguientes categorías de acuerdo al tipo de erupción:
 
-* 0 Estable
-* 1 Turbulencia Ligera
-* 2 Turbulencia Moderada
-* 3 Turbulencia Severa
-* 4 Turbulencia Extrema
+* 0 Pliniana
+* 1 Peleana
+* 2 Vulcaniana
+* 3 Hawaiana
+* 4 Estromboliana
 
 Adicionalente se proporciona el archivo _space_X_test_ el con mediciones de sensores del mismo cohete cuyo estado se desconoce. El objetivo del reto es predecir cuales son los valores de dicho archivo, utilizando como base el _space_X_train_. Adicionalmente se solicita evaluar el desempeño del modelo a través de la métrica __f1_macro__, es decir se considerará que un modelo es mejor si logró hacer una predicción con un __f1_macro__ mayor.
 
