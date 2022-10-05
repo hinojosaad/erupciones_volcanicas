@@ -25,7 +25,8 @@ Se utilizó el modelo __RandomForestClassifier__ de la librería _sklearn_ combi
 
 | **f1_macro** | **tuned f1_macro** |
 |--------------|--------------------|
-| .7682        | .7774              |
+|    .7682     |       .7774        |
 
 
+## Requisitos
 
