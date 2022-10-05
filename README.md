@@ -16,8 +16,8 @@ Adicionalente se proporciona el archivo _jm_test_ el con mediciones de vibracion
 
 ## Archivos del repositorio
 
-* Erupciones_volcanicos.ipynb: Notebook describiendo el código en python con el cual se construyó la solución propuesta al reto
-* space_X_pred.csv: Archivo que contiene las predicciones del modelo de __Random Forest__ con parametros ajustados para los valores contenidos en _jm_test_X
+* Erupciones_volcanicas.ipynb: Notebook describiendo el código en python con el cual se construyó la solución propuesta al reto
+* space_X_pred.csv: Archivo que contiene las predicciones del modelo de __Random Forest__ con parametros ajustados para los valores contenidos en _jm_test_X_
 
 
 ## Resultados
